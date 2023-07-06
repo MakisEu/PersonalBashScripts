@@ -6,3 +6,5 @@ Scripts:
         ➡️ PlayRSSVideo: Play a youtube video using yt-dlp and mpv from a link and add link to history file.
         
         ➡️ BashHistorySaver: Save terminal history permanently into a file and clear bash_history to speed up terminal
+
+        ➡️ CleanArch: Performs file maintenance on the root partition to free up space 
